@@ -3,8 +3,8 @@
 Contributors: bealinawaz
 Tags: blue, white, light, one-column, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, infinite-scroll, rtl-language-support, site-logo, sticky-post, translation-ready
 
-Requires at least: 4.1
-Tested up to: 4.1
+Requires at least: 6.0
+Tested up to: 6.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
